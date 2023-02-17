@@ -1,4 +1,3 @@
-
 Public class CalculateG {
 
    Public static void main(String[] arguments) {
